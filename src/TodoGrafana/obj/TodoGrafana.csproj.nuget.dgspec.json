@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj": {}
+    "D:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj": {}
   },
   "projects": {
-    "d:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj": {
+    "D:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj",
+        "projectUniqueName": "D:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj",
         "projectName": "TodoGrafana",
-        "projectPath": "d:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj",
+        "projectPath": "D:\\Livre\\TodoGrafana\\src\\TodoGrafana\\TodoGrafana.csproj",
         "packagesPath": "C:\\Users\\alan4\\.nuget\\packages\\",
-        "outputPath": "d:\\Livre\\TodoGrafana\\src\\TodoGrafana\\obj\\",
+        "outputPath": "D:\\Livre\\TodoGrafana\\src\\TodoGrafana\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alan4\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,6 +21,7 @@
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,6 +43,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.12, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.22.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
